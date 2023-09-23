@@ -8,3 +8,6 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ![](sc_activity2.png)
 *Activity 2*
+
+![](sc_activity3.png)
+*Activity 3*
